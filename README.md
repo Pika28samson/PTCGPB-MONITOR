@@ -5,7 +5,7 @@
 *This program was made in a rush, so please dm me on discord if you have any issue: pika28samson*
 
 **Step 1:**
-Setup everything from artuto's bot.
+\nSetup everything from artuto's bot.
 
 **Step 2:**
 Download *main.exe* and *ngrok.exe* from here.
