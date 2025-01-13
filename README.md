@@ -1,5 +1,7 @@
 # PTCH Pocket Bot Monitor <br />
 <br />
+** THERE ARE CURRENTLY SOME ISSUES THAT I HAVE TO FIX, THIS MEANS IT IS NOT WORKING FOR NOW ** <br />
+<br />
 <em>For the actual bot, visit https://github.com/Arturo-1212/PTCGPB</em> <br />
 <em>This program is used to monitor your bots on your phone even if you are not near your computer</em> <br />
 <em>This program was made in a rush, so please dm me on discord if you have any issue: pika28samson</em> <br />
