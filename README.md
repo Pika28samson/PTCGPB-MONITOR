@@ -4,6 +4,8 @@
 <em>This program is used to monitor your bots on your phone even if you are not near your computer</em> <br />
 <em>This program was made in a rush, so please dm me on discord if you have any issue: pika28samson</em> <br />
 <br />
+![image](https://github.com/user-attachments/assets/81fdcf40-dbfb-4903-8b9d-2ff156ed1fc1)
+
 <strong>Step 1:</strong> <br />
 Setup everything from artuto's bot. <br />
 <br />
